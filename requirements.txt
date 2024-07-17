@@ -1,0 +1,17 @@
+Django==4.2.3
+Pillow==10.0.0
+jinja2==3.0
+gunicorn==20.1.0
+contextvars
+typing-extensions==4.2.0
+aiohttp==3.8.3
+click==8.0.4
+wheel==0.41.1
+multidict==4.5
+certifi==2023.7.22
+distlib==0.3.7
+filelock==3.12.4
+pipenv==2023.9.8
+platformdirs==3.10.0
+python-dotenv==1.0.1
+virtualenv==20.24.5
